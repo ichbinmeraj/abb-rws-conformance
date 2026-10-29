@@ -2,7 +2,7 @@
 
 Conformance test suite and compatibility matrix for ABB Robot Web Services clients: RWS 1.0 (IRC5 / RobotWare 6) and RWS 2.0 (OmniCore / RobotWare 7 and 8).
 
-> **Status: early development.** Nothing to install yet. Watch or star the repo to follow progress.
+> **Status:** nothing to install yet, and the suite is not under active work. What abb-rws-client covers today is listed in its [CONFORMANCE.md](https://github.com/ichbinmeraj/abb-rws-client/blob/master/CONFORMANCE.md).
 
 ## What it does
 
@@ -31,4 +31,4 @@ Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE). If you redistribute thi
 
 ## Disclaimer
 
-Independent open-source project by [Meraj Safari](https://github.com/ichbinmeraj). Not affiliated with, endorsed by or sponsored by ABB. ABB, RobotWare, OmniCore, IRC5 and RobotStudio are trademarks of ABB. See [TRADEMARKS.md](TRADEMARKS.md).
+Independent open-source project by [Meraj Safari](https://github.com/ichbinmeraj). ABB is a trademark of ABB Asea Brown Boveri Ltd. RobotWare, OmniCore, IRC5 and RobotStudio are trademarks of their respective owners. Not affiliated with, endorsed by, sponsored by or supported by ABB, ABB Robotics or any later owner of these products. See [TRADEMARKS.md](TRADEMARKS.md).
